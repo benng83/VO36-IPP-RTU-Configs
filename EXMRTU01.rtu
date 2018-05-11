@@ -1,5 +1,9 @@
 # RTU Generated Configuration File
+<<<<<<< HEAD
 # Generated at 01:35:12 on 11-05-2018
+=======
+# Generated at 00:51:38 on 10-05-2018
+>>>>>>> parent of 86bb07c... test commit
 # FILE_VER: 1  RTU_TYPE: 5  RTU_MODEL: 33
 PC EXM_Stn24VDCOk_S DI
 RN 0
